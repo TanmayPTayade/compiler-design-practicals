@@ -1,0 +1,1 @@
+#include<stdio.h>intmain(){inta=10;intb=20;if(a<b)printf("Aisgreater");elseprintf("Bisgreater");return0;}

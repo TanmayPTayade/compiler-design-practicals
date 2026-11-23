@@ -1,0 +1,14 @@
+# Compiled executables
+*.exe
+
+# Generated C files from Lex/YACC
+lex.yy.c
+y.tab.c
+y.tab.h
+
+# Dev-Cpp installer
+Dev-Cpp*.exe
+
+# Misc
+*.o
+*.out
